@@ -77,17 +77,17 @@ body { background-color: var(--color-state-300); }
 }
 .sr-only {
     position: absolute;
-    width: 1px;
-    height: 1px;
+    width: 0.06rem;
+    height: 0.06rem;
     padding: 0;
-    margin: -1px;
+    margin: -0.06rem;
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
     white-space: nowrap;
     border: 0;
 }
 .card__element--secondary {
-    font-family: 'Text Prefit 2';
+    font-family: 'Text Prefit 2', sans-serif;
     font-size: 1rem;
     text-align: center;
     width: 17.5rem;
