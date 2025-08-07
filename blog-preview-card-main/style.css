@@ -82,6 +82,10 @@ body {
     padding: 0;
     margin: var(--spacing-150) 0;
 }
+.header__element:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
 .description__element {
     font-family: 'Text Preset 2', sans-serif;
     font-size: 1rem;
