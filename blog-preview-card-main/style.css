@@ -64,7 +64,7 @@ body {
 .tag--learning {
     font-family: 'Text Preset 3', sans-serif;
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 0.875rem;
     background-color: var(--yellow);
     padding: var(--spacing-50) var(--spacing-100);
     border-radius: var(--spacing-50);
@@ -103,7 +103,7 @@ body {
 }
 .profile__element--name {
     font-family: 'Text Preset 3', sans-serif;
-    font-size: 1rem;
+    font-size: 0.875rem;
     font-weight: bold;
 }
 .primary__card {
